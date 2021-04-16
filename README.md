@@ -6,3 +6,5 @@
 The GeoJson for village level boundaries were extracted from [here](https://github.com/datameet/indian_village_boundaries)
 
 The shapefile for AC and District boundaries were extracted from [here](https://github.com/datameet/maps/tree/master/assembly-constituencies)
+
+Block level and village data were extracted from [population enumeration](https://censusindia.gov.in/2011census/population_enumeration.html) data of 2011 census.
