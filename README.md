@@ -3,6 +3,6 @@
 
 **Aproach Final** is the aggregation of predictions at village level to calculate the AC level expenditure. 
 
-The GeoJson for village level boundries were extracted from [here](https://github.com/datameet/indian_village_boundaries)
+The GeoJson for village level boundaries were extracted from [here](https://github.com/datameet/indian_village_boundaries)
 
-The shapefile for AC and District boundries were extracted from [here](https://github.com/datameet/maps/tree/master/assembly-constituencies)
+The shapefile for AC and District boundaries were extracted from [here](https://github.com/datameet/maps/tree/master/assembly-constituencies)
